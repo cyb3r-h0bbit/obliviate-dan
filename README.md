@@ -20,8 +20,8 @@
  	<a href="https://www.twitch.tv/veganocaloteiro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:dantenorio0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danieljtenorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ <img align="center"  height="80" width="80" src="https://nadei.42sp.org.br/img/InsigneaP3.png">
+ <img align="center"  height="80" width="80" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=">
  
 </div>
-![An image of @obliviatedan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obliviatedan)](https://holopin.io/@obliviatedan)
