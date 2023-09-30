@@ -24,4 +24,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-[![An image of @obliviatedan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obliviatedan)](https://holopin.io/@obliviatedan)
+![An image of @obliviatedan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obliviatedan)](https://holopin.io/@obliviatedan)
