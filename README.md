@@ -8,6 +8,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"  height="30" width="40" src="https://icongr.am/devicon/c-original.svg?color=currentColor">
+  <img align="center"  height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=71&color=currentColor">
+ 
 </div>
   
   ##
@@ -21,3 +24,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+[![An image of @obliviatedan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/obliviatedan)](https://holopin.io/@obliviatedan)
